@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on any exciting projects you have
 - 🤔 I’m looking for help with cloud computing
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was an industrial designer | I plays drums | 
+- ⚡ Fun fact: I was an industrial designer | I plays drums
 
