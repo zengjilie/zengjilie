@@ -1,11 +1,9 @@
-### Hi there, I'm Jilie(Alex) 👋
+# Hi there, I'm Jilie(Alex) 👋
 
-- 🔭 I’m currently working on ... Full-Stack dev
-- 🌱 I’m currently learning ... React Native
-- 👯 I’m looking to collaborate on ... Any exciting projects
-- 🤔 I’m looking for help with ... Cloud computing
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... zengjilie@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I have background in industrial design, making products makes me happy.
+- 🔭 I’m currently working on full-stack dev
+- 🌱 I’m currently learning react native
+- 👯 I’m looking to collaborate on any exciting projects you have
+- 🤔 I’m looking for help with cloud computing
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was an industrial designer | I plays drums | 
 
