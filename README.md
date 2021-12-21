@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I was an industrial designer | I play drums
 
 **Main skills**
-Front-end: React.js
-Back-end: Node.js | Expess.js
-Database: SQL | Mongodb
-App dev: React native
+- Front-end: React.js
+- Back-end: Node.js | Expess.js
+- Database: SQL | Mongodb
+- App dev: React native
 
 
