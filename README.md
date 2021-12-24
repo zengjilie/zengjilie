@@ -1,10 +1,5 @@
 # Hi there, I'm Jilie(Alex) 👋
 
-- 🔭 I’m currently working on full-stack dev
-- 🌱 I’m currently learning react native
-- 👯 I’m looking to collaborate on startup products
-- 🤔 I’m looking for help with cloud computing
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was an industrial designer
+I’m currently working on full-stack dev. Earned my Bachelor's degree in industrial design from National Taiwan University of Science and Technology. Now pursuing Master's degree at UT Austin, major in information studies. 
 
 
