@@ -4,8 +4,7 @@
 <table>
 <tr>
 <td>
-<div style="height:10px">&nbsp;</div>
-
+<div style="height:20px"></div>
 <pre>
 {
     name:"Jilie Zeng";
@@ -20,7 +19,7 @@
 
 </td>
 <td>
-<div style="width:500px">&nbsp;</div>
+<div style="width:500px"></div>
 <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/>
 </td>
 </tr>
