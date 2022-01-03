@@ -6,15 +6,18 @@
 
 ### 🙃 About Me
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> a1cc9c8416ba26030e9ef8b3f4008aaef20308b9
 <table>
 <tr>
 <td>
-<div style="height:15px"></div>
-
+<div>&nbsp;</div>
 <pre>
+<code>
 {
     name:"Jilie Zeng";
     interests:[
@@ -24,14 +27,19 @@
     ];
     location:"Austin, TX";
 }
+</code>
 </pre>
-
+    
 </td>
 <td>
-<div style="min-width:500px"></div>
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <img width="500"  src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/>
+    
 </td>
+<<<<<<< HEAD
 
+=======
+>>>>>>> a1cc9c8416ba26030e9ef8b3f4008aaef20308b9
 </tr>
 </table>
 
