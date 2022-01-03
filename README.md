@@ -23,9 +23,6 @@
 <div style="min-width:500px"></div>
 <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/>
 </td>
-
-<td><img width="500" src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/></td>
-
 </tr>
 </table>
 
