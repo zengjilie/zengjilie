@@ -1,17 +1,7 @@
 # Hi there, I'm Jilie (Alex) 👋
 
-
-
-
-
 ### 🙃 About Me
 
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> a1cc9c8416ba26030e9ef8b3f4008aaef20308b9
 <table>
 <tr>
 <td>
@@ -36,10 +26,8 @@
     <img width="500"  src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/>
     
 </td>
-<<<<<<< HEAD
 
-=======
->>>>>>> a1cc9c8416ba26030e9ef8b3f4008aaef20308b9
+
 </tr>
 </table>
 
@@ -50,15 +38,5 @@
 |<img align="center" height="20" src="https://img.shields.io/badge/-Typescript-black?logo=typescript&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Express-black?logo=express&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Vim-black?logo=vim&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat"/>
 |<img align="center" height="20" src="https://img.shields.io/badge/-Java-black?logo=java&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Next-black?logo=next.js&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Github-black?logo=github&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat&logoWidth=20"/>|
 |<img align="center" height="20" src="https://img.shields.io/badge/-Python-black?logo=python&style=flat&logoWidth=20"/>|...|...|...|
-
-
-
-
-
-
-
-
-
-
 
 
