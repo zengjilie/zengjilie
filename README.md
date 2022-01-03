@@ -17,7 +17,7 @@
 }
 </pre>
 </td>
-<td><img height="" width="500" src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/></td>
+<td><img height="500" width="500" src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/></td>
 </tr>
 </table>
 
