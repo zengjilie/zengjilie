@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-<div style="height:15px">&nbsp;</div>
+<div style="height:10px">&nbsp;</div>
 
 <pre>
 {
@@ -20,7 +20,7 @@
 
 </td>
 <td>
-<div style="min-width:500px">&nbsp;</div>
+<div style="width:500px">&nbsp;</div>
 <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/>
 </td>
 </tr>
