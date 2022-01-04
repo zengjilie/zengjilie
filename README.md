@@ -9,13 +9,13 @@
 <pre>
 <code>
 {
-    name:"Alex Zeng";
+    name:"Alex Zeng",
     interests:[
         "coding",
         "designing",
         "eating"
-    ];
-    location:"Austin, TX";
+    ],
+    location:"Austin, TX",
 }
 </code>
 </pre>
