@@ -1,4 +1,4 @@
-# Howdy! I'm Jilie (Alex) 👋
+# Howdy! I'm Alex 👋
 
 ### 🙃 About Me
 
@@ -9,7 +9,7 @@
 <pre>
 <code>
 {
-    name:"Jilie Zeng";
+    name:"Alex Zeng";
     interests:[
         "coding",
         "designing",
