@@ -32,7 +32,7 @@
 </table>
 
 ### 💥Skills
-|Languages|Frameworks|Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|Languages&nbsp;&nbsp;|Frameworks|Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----------|:----------|:-----------|:-----------|
 |<img align="center" height="20" src="https://img.shields.io/badge/-Javascript-black?logo=javascript&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-React-black?logo=react&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat"/>|
 |<img align="center" height="20" src="https://img.shields.io/badge/-Typescript-black?logo=typescript&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Express-black?logo=express&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Vim-black?logo=vim&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat"/>
