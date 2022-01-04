@@ -1,4 +1,4 @@
-# Hi there, I'm Jilie (Alex) 👋
+# Howdy, I'm Jilie (Alex) 👋
 
 ### 🙃 About Me
 
