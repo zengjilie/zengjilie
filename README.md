@@ -1,42 +1,58 @@
-# Hi there, I'm Jilie (Alex) 👋
-
-### 🙃 About Me
-
-<table>
-<tr>
-<td>
-<div>&nbsp;</div>
-<pre>
-<code>
-{
-    name:"Jilie Zeng";
-    interests:[
-        "coding",
-        "designing",
-        "eating"
-    ];
-    location:"Austin, TX";
-}
-</code>
-</pre>
-    
-</td>
-<td>
-    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
-    <img width="500"  src="https://github-readme-stats.vercel.app/api?username=zengjilie&show_icons=true&theme=gruvbox"/>
-    
-</td>
 
 
-</tr>
-</table>
+## About Me
 
-### 💥Skills
-|Languages|Frameworks|Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|:-----------|:----------|:-----------|:-----------|
-|<img align="center" height="20" src="https://img.shields.io/badge/-Javascript-black?logo=javascript&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-React-black?logo=react&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Firebase-black?logo=firebase&style=flat"/>|
-|<img align="center" height="20" src="https://img.shields.io/badge/-Typescript-black?logo=typescript&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Express-black?logo=express&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Vim-black?logo=vim&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat"/>
-|<img align="center" height="20" src="https://img.shields.io/badge/-Java-black?logo=java&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Next-black?logo=next.js&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-Github-black?logo=github&style=flat"/>|<img align="center" height="20" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat&logoWidth=20"/>|
-|<img align="center" height="20" src="https://img.shields.io/badge/-Python-black?logo=python&style=flat&logoWidth=20"/>|...|...|...|
+An Industrial designer turned **software engineer**. I have a passion for both design and software development. I believe that excellent products come from the harmony between design, engineering, and a human-centered mindset. Currently, I’m a graduate student at **UT Austin** majoring in **Information Science**.
 
+
+## Tech Stack
+
+**Languages**
+
+![java](https://img.shields.io/badge/-java-black?logo=java&style=for-the-badge)
+![python](https://img.shields.io/badge/-python-black?logo=python&style=for-the-badge)
+![js](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge)
+![html](https://img.shields.io/badge/-html-black?logo=html5&style=for-the-badge)
+![css](https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge)
+![sass](https://img.shields.io/badge/-sass-black?logo=sass&style=for-the-badge)
+![c](https://img.shields.io/badge/-c-black?logo=c&style=for-the-badge)
+
+**Technologies**
+
+![react](https://img.shields.io/badge/-ReactJS-black?logo=react&style=for-the-badge)
+![node](https://img.shields.io/badge/-NodeJS-black?logo=Node.js&style=for-the-badge)
+![express](https://img.shields.io/badge/-ExpressJS-black?logo=express&style=for-the-badge)
+![next](https://img.shields.io/badge/-NextJS-black?logo=Next.js&style=for-the-badge)
+![threejs](https://img.shields.io/badge/-threejs-black?logo=three.js&style=for-the-badge)
+![p5js](https://img.shields.io/badge/-p5js-black?logo=p5.js&style=for-the-badge)
+![apacheechart](https://img.shields.io/badge/-apache_echarts-black?logo=apacheecharts&style=for-the-badge)
+![tailwind](https://img.shields.io/badge/-tailwind_CSS-black?logo=tailwindcss&style=for-the-badge)
+
+
+**Database**
+
+![postgres](https://img.shields.io/badge/-postgresql-black?logo=postgresql&style=for-the-badge)
+![mongodb](https://img.shields.io/badge/-mongodb-black?logo=mongodb&style=for-the-badge)
+![mysql](https://img.shields.io/badge/-mysql-black?logo=mysql&style=for-the-badge)
+
+**Cloud**
+
+![aws](https://img.shields.io/badge/-aws-black?logo=amazonaws&style=for-the-badge)
+![firebase](https://img.shields.io/badge/-firebase-black?logo=firebase&style=for-the-badge)
+
+**Learning...**
+
+![typescript](https://img.shields.io/badge/-typescript-black?logo=typescript&style=for-the-badge)
+![redis](https://img.shields.io/badge/-redis-black?logo=redis&style=for-the-badge)
+
+## Interests
+
+**Music**
+- Math Rock / Disco Funk / Jazz Fusion / J Rock
+
+**Nerd**
+- Config my Vim / Mechanical Keyboard
+
+**Sports**
+- Table Tennis / Fitness
 
