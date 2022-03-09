@@ -18,6 +18,7 @@ An Industrial designer turned **software engineer**. I have a passion for both d
 ![react](https://img.shields.io/badge/-ReactJS-black?logo=react&style=for-the-badge&color=darkblue)
 ![redux](https://img.shields.io/badge/-Redux-black?logo=redux&style=for-the-badge&color=blue)
 ![next](https://img.shields.io/badge/-NextJS-black?logo=Next.js&style=for-the-badge&color=lightgray)
+![bootstrape](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=for-the-badge&color=white)
 ![html](https://img.shields.io/badge/-html-black?logo=html5&style=for-the-badge&color=darkred)
 ![css](https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge&color=blue)
 ![sass](https://img.shields.io/badge/-sass-black?logo=sass&style=for-the-badge&color=white)
