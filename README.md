@@ -5,7 +5,7 @@ An Industrial designer turned **software engineer**. I have a passion for both d
 
 ## Tech Stack
 
-**Languages**
+**Programming Languages**
 
 ![java](https://img.shields.io/badge/-java-black?logo=java&style=for-the-badge&color=red)
 ![python](https://img.shields.io/badge/-python-black?logo=python&style=for-the-badge&logoColor=white&color=blue)
@@ -14,6 +14,7 @@ An Industrial designer turned **software engineer**. I have a passion for both d
 ![css](https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge&color=blue)
 ![sass](https://img.shields.io/badge/-sass-black?logo=sass&style=for-the-badge&color=white)
 ![c](https://img.shields.io/badge/-c-black?logo=c&style=for-the-badge&logoColor=darkblue&color=darkgrey)
+![c#](https://img.shields.io/badge/-csharp-black?logo=csharp&style=for-the-badge&logoColor=white&color=blue)
 
 **Technologies**
 
