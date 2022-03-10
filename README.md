@@ -47,6 +47,8 @@ An Industrial designer turned **software engineer**. I have a passion for both d
 
 ![typescript](https://img.shields.io/badge/-typescript-black?logo=typescript&style=for-the-badge&logoColor=white&color=blue)
 ![redis](https://img.shields.io/badge/-redis-black?logo=redis&style=for-the-badge&color=darkred)
+![docker](https://img.shields.io/badge/-docker-black?logo=docker&style=for-the-badge&logoColor=white&color=darkblue)
+
 
 ## Interests
 
