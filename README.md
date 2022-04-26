@@ -8,9 +8,6 @@
 
 **Industrial Designer** [+++...]
 
-
-
-
 ⚡️
 
 **Languages**: Java, TypeScript, JavaScript, Python, C/C#
@@ -23,7 +20,7 @@
 
 **Testing**: JUnit, Jest
 
-**Cloud**: AWS, Firebase, Netlify, Heroku
+
 
 **Others**: WordPress, React Native, SASS, P5JS, ThreeJS, Apache Echarts, TailwindCSS, Bootstrap
 
