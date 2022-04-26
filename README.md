@@ -1,6 +1,5 @@
-## About Me
 
-🧑🏻‍💻
+🧑🏻‍💻  **About me**
 
 **Software Engineer**(vimmer) [+++++...]
 
@@ -8,7 +7,7 @@
 
 **Industrial Designer** [+++...]
 
-⚡️
+⚡️ **Technologies**
 
 **Languages**: Java, TypeScript, JavaScript, Python, C/C#
 
@@ -20,11 +19,9 @@
 
 **Testing**: JUnit, Jest
 
-
-
 **Others**: WordPress, React Native, SASS, P5JS, ThreeJS, Apache Echarts, TailwindCSS, Bootstrap
 
-🎧
+🎧  **Interests**
 
 **Musicians I like**
 
