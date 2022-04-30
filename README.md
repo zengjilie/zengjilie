@@ -19,7 +19,7 @@
 
 **Testing**: JUnit, Jest
 
-**Others**: WordPress, React Native, SASS, P5JS, ThreeJS, Apache Echarts, TailwindCSS, Bootstrap
+**Others**: WordPress, React Native, SASS, EJS, P5JS, ThreeJS, Apache Echarts, TailwindCSS, Bootstrap
 
 🎧  **Interests**
 
