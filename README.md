@@ -1,28 +1,9 @@
 
-🧑🏻‍💻  **About me**
+**About me**
 
-**Software Engineer**(vimmer) [+++++...]
+**Software Engineer**
+**Vim Evangelist**
 
-**UI/UX Designer** [+++...]
-
-**Industrial Designer** [+++...]
-
-⚡️ **Technologies**
-
-**Languages**: Java, TypeScript, JavaScript, Python, C/C#
-
-**Frameworks**: React/Redux, Next, Express, Node, SpringBoot
-
-**Database**: PostgreSQL, MongoDB, Redis, GraphQL
-
-**DevOps**: Docker, K8s, GitHub
-
-**Testing**: JUnit, Jest
-
-**Others**: WordPress, React Native, SASS, EJS, P5JS, ThreeJS, Apache Echarts, TailwindCSS, Bootstrap
-
-🎧  **Interests**
-
-**Musicians I like**
+**Music I am listening**
 
 Chon, Eve, YOASOBI, Avenged Sevenfold...
