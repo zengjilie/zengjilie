@@ -1,9 +1,11 @@
 
 ## About me
 
-**Software Engineer**
+- **Software Engineer**
 
-**Vim Evangelist**
+- **Vim Evangelist**
+
+- A Proud **LongHorn** 🤘
 
 ## Music I am listening
 
