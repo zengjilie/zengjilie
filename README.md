@@ -9,4 +9,4 @@
 
 ## Music I am listening
 
-Chon, Eve, YOASOBI, Avenged Sevenfold...
+Chon, Eve, YOASOBI, Stevie Wonder
