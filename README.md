@@ -9,4 +9,4 @@
 
 ## Music I am listening
 
-Chon, Elephant Gym, Eve, YOASOBI, Stevie Wonder, Tom Misch
+Ben Rosett, Eternity Forever
