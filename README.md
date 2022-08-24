@@ -7,7 +7,7 @@
 
 - A Proud **LongHorn** 🤘
 
-- Learning: Sprintboot, Go
+- Learning: Spring Boot, Go
 
 ## Music I'm listening
 
