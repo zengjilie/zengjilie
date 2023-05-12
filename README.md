@@ -7,7 +7,7 @@
 
 - A Proud **LongHorn** 🤘
 
-- Learning: Spring Boot, Go
+- Learning: Cloud Computing
 
 ## Music I'm listening
 
