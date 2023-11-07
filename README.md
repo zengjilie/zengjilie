@@ -1,10 +1,5 @@
 
 ## About me
 
-- **Software Engineer**
+- **Technologist / Creativist / Vim Evangelist**
 
-- **Vim Evangelist**
-
-- A Proud **LongHorn** 🤘
-
-- Learning: Cloud Computing
