@@ -1,6 +1,6 @@
 ## About Me
 
-An Industrial designer turned **software engineer**. I have a passion for both design and software development. I believe that excellent products come from the harmony between design, engineering, and a human-centered mindset. Currently, I’m a graduate student at **UT Austin** majoring in **Information Science**.
+I'm a junior software engineer at the beginning of my professional career. I previously worked at a fast-growing startup called [Stitch3D](www.stitch3d.io) as a software engineer, where I gained significant experience in product management and production-level web development. Before that, I was a graduate student at UT Austin, pursuing a master's degree in information science. During that time, I worked as a web developer and a research assistant, allowing me to contribute to several projects, some of which had a significant impact. I also interned at [Supplyframe](www.supplyframe.com) as a full-stack engineer during the summer, where I had the opportunity to work with some very talented engineers. Now, I'm ready to embark on the next chapter of my career.
 
 
 ## Tech Stack
