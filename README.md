@@ -7,9 +7,11 @@ An Industrial designer turned **software engineer**. I have a passion for both d
 
 **Programming Languages**
 
+
+![js](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge&&color=grey)
+![ts](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=for-the-badge&&color=grey)
 ![java](https://img.shields.io/badge/-java-black?logo=java&style=for-the-badge&color=red)
 ![python](https://img.shields.io/badge/-python-black?logo=python&style=for-the-badge&logoColor=white&color=blue)
-![js](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge&&color=grey)
 ![html](https://img.shields.io/badge/-html-black?logo=html5&style=for-the-badge&color=darkred)
 ![css](https://img.shields.io/badge/-css3-black?logo=css3&style=for-the-badge&color=blue)
 ![sass](https://img.shields.io/badge/-sass-black?logo=sass&style=for-the-badge&color=white)
@@ -41,7 +43,6 @@ An Industrial designer turned **software engineer**. I have a passion for both d
 
 **Learning...**
 
-![typescript](https://img.shields.io/badge/-typescript-black?logo=typescript&style=for-the-badge&logoColor=white&color=blue)
 ![redis](https://img.shields.io/badge/-redis-black?logo=redis&style=for-the-badge&color=darkred)
 
 ## Interests
