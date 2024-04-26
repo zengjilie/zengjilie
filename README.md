@@ -21,6 +21,7 @@ I'm a junior software engineer at the early stage of my professional career. I p
 **Technologies**
 
 ![react](https://img.shields.io/badge/-ReactJS-black?logo=react&style=for-the-badge&color=darkblue)
+![redux](https://img.shields.io/badge/-Redux-black?logo=redux&style=for-the-badge&color=purple)
 ![node](https://img.shields.io/badge/-NodeJS-black?logo=Node.js&style=for-the-badge&color=darkgreen)
 ![express](https://img.shields.io/badge/-ExpressJS-black?logo=express&style=for-the-badge&color=blue)
 ![next](https://img.shields.io/badge/-NextJS-black?logo=Next.js&style=for-the-badge&color=lightgray)
