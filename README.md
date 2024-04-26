@@ -1,9 +1,10 @@
-## About Me
+## 🤓 About Me
 
 I'm a junior software engineer at the early stage of my professional career. I previously worked at a fast-growing startup, [Stitch3D](https://www.stitch3d.io) as a software engineer, where I gained a whole bunch of knowledge in product management and production-level web development. Before that, I was a graduate student at UT Austin pursuing a master's degree in information science. During that time, I worked as a web developer and research assistant. I also interned at [Supplyframe](https://www.supplyframe.com) as a full-stack engineer during the summer, where I had the opportunity to work with some exceptionally talented engineers. Now, I'm ready to embark on the next chapter of my career.
 
 
-## Tech Stack
+
+## 🛠️ Tech Stack
 
 **Programming Languages**
 
@@ -42,7 +43,8 @@ I'm a junior software engineer at the early stage of my professional career. I p
 ![aws](https://img.shields.io/badge/-aws-black?logo=amazonaws&style=for-the-badge&color=darkgreen)
 ![firebase](https://img.shields.io/badge/-firebase-black?logo=firebase&style=for-the-badge&logoColor=white&color=yellow)
 
-## Interests
+
+## ⭐️ Interests
 
 **Music**
 - Math Rock / Disco Funk / Jazz Fusion / J Rock
@@ -52,3 +54,6 @@ I'm a junior software engineer at the early stage of my professional career. I p
 
 **Sports**
 - Table Tennis / Fitness
+
+## 📁 [Resume](https://drive.google.com/file/d/18RqoN6d2LWna3j9OWbed35d3eMGclN7G/view?usp=sharing)
+## 🎨 [Portfolio](https://www.zengjilie.com)
