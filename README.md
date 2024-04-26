@@ -42,10 +42,6 @@ I'm a junior software engineer at the early stage of my professional career. I p
 ![aws](https://img.shields.io/badge/-aws-black?logo=amazonaws&style=for-the-badge&color=darkgreen)
 ![firebase](https://img.shields.io/badge/-firebase-black?logo=firebase&style=for-the-badge&logoColor=white&color=yellow)
 
-**Learning...**
-
-![redis](https://img.shields.io/badge/-redis-black?logo=redis&style=for-the-badge&color=darkred)
-
 ## Interests
 
 **Music**
